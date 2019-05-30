@@ -1,0 +1,5 @@
+s = input()
+a= s.count('a')
+b= s.count('b')
+c= s.count('c')
+print ('a',a,'b',b,'c',c)
